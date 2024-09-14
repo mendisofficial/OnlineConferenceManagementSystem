@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="OnlineConferenceManagementSystem">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/OnlineConferenceManagementSystem.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
